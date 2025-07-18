@@ -1,1 +1,4 @@
 this is third file
+
+merge conflict 3 
+change in third file
