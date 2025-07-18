@@ -1,4 +1,4 @@
-this is second file
+this is second 
 
-merge coflict 2nd commit 
-change in 2nd file
+
+master change in 2nd file 
